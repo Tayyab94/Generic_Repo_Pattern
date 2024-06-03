@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Generic_Repo_Pattern.props" />
+</Project>

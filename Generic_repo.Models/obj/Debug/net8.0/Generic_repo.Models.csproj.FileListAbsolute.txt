@@ -1,0 +1,12 @@
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\bin\Debug\net8.0\Generic_repo.Models.deps.json
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\bin\Debug\net8.0\Generic_repo.Models.dll
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\bin\Debug\net8.0\Generic_repo.Models.pdb
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\Generic_repo.Models.csproj.AssemblyReference.cache
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\Generic_repo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\Generic_repo.Models.AssemblyInfoInputs.cache
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\Generic_repo.Models.AssemblyInfo.cs
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\Generic_repo.Models.csproj.CoreCompileInputs.cache
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\Generic_repo.Models.dll
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\refint\Generic_repo.Models.dll
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\Generic_repo.Models.pdb
+C:\Users\tayya\source\Repos\Generic_Repo_Pattern\Generic_repo.Models\obj\Debug\net8.0\ref\Generic_repo.Models.dll
